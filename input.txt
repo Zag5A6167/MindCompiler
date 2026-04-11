@@ -1,5 +1,1 @@
-i love zag
-Hello world
-.. 
-
-                                  
+function factorial(int n)
